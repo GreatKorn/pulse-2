@@ -1,0 +1,36 @@
+@media (max-width: 575px) {
+    .header__official {
+        font-size: 10px;
+        margin: 5px;
+        span {
+            font-size: 10px;
+        }
+    }
+    .header__phone {
+        font-size: 11px;
+        margin: 5px;
+    }
+    .button {
+        width: 117px;
+        height: 27px;
+        font-size: 10px;
+    }
+    .promo__header {
+        font-size: 20px;
+    }
+    .promo__subheader {
+        font-size: 12px;
+    }
+    .promo__icons {
+        width: 270px;
+    }
+    .title {
+        font-size: 20px;
+    }
+    .advantages__subtitle {
+        font-size: 17px;
+    }
+    .advantages__descr {
+        font-size: 10px;
+    }
+}
