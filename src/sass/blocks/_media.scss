@@ -15,6 +15,9 @@
         height: 27px;
         font-size: 10px;
     }
+    .button_main {
+        font-size: 8px;
+    }
     .promo__header {
         font-size: 20px;
     }
@@ -28,9 +31,16 @@
         font-size: 20px;
     }
     .advantages__subtitle {
-        font-size: 17px;
+        font-size: 14px;
+        margin-left: 15px;
+        
+    }
+    .advantages__item {
+        min-width: 33%;
     }
     .advantages__descr {
-        font-size: 10px;
+        font-size: 11px;
+        margin-top: 5px;
+        text-align: center;
     }
 }
